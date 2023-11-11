@@ -11,7 +11,7 @@ export default function Home() {
         <meta property="og:type" content="webpage"/>
         <meta property="og:description" content="Use our free currency converter. Get accurate and reliable foreign exchange rates."></meta>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon.svg" />
       </Head>
       <main>
         <CurrencyTabs />
